@@ -1,3 +1,6 @@
 [submodule "src/solana_helper"]
 	path = src/solana_helper
 	url = https://github.com/DerZwergGimli/solana_helper.git
+[submodule "src/solanabeach_api"]
+	path = src/solanabeach_api
+	url = https://github.com/DerZwergGimli/solanabeach_api.git

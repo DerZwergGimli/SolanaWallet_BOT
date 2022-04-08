@@ -1401,21 +1401,9 @@ dependencies = [
  "serde",
  "serde_json",
  "serenity",
- "solanabeach",
  "tokio",
  "toml",
  "tracing-subscriber",
-]
-
-[[package]]
-name = "solanabeach"
-version = "0.1.0"
-dependencies = [
- "log",
- "reqwest",
- "serde",
- "serde_json",
- "tokio",
 ]
 
 [[package]]
